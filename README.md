@@ -3,7 +3,7 @@
 # 📊 Talk to Your Database (Local Text-to-SQL App)
 ### *Privacy-First Natural Language-to-SQL Assistant powered by LangChain, Ollama (Llama 3) & Streamlit*
 
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
