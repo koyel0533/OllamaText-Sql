@@ -3,11 +3,11 @@
 # 📊 Talk to Your Database (Local Text-to-SQL App)
 ### *Privacy-First Natural Language-to-SQL Assistant powered by LangChain, Ollama (Llama 3) & Streamlit*
 
-![Python](https://shields.io)
-![LangChain](https://shields.io)
-![Ollama](https://shields.io)
-![Streamlit](https://shields.io)
-![SQLite](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 <p>
   A 100% local, zero-API-cost <b>Text-to-SQL web application</b> that translates plain English questions into executable SQL queries using <b>Llama 3</b> via <b>Ollama</b> and <b>LangChain Expression Language (LCEL)</b>.
